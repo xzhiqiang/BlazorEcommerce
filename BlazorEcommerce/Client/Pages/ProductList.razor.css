@@ -4,7 +4,6 @@
     border-radius: 6px;
     margin-bottom: 10px;
     transition: transform .2s;
-    
 }
 
     .media-img:hover {
@@ -14,7 +13,7 @@
 .media-img-wrapper {
     width: 200px;
     text-align: center;
-    margin:10px;
+    margin: 10px;
 }
 
 .price {
